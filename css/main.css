@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+.font1{
+    font-family: 'Gill Sans', 'Gill Sans MT','Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.font2{
+    font-family: 'Lucida Sans',cursive;
+    font-size: italic;
+}
+.font3{
+    font-family: Copperplate,fantasy;
+    font-size: italic;          
+}
+.font4{
+    font-family: Copperplate,fantasy;
+    font-size: italic;          
+}
+.font4{
+    font-family:'Courier New', monospace,;
+    font-size: italic;          
+}
+.font5{
+    font-family:Verdana,sans-serif;
+    font-size: italic;          
+}
+.font6{
+    font-family: Garamond,serif;
+    font-size: italic;          
+}
+.font7{
+    font-family: Garamond,serif;
+    font-style: oblique;          
+}
+.fontWeight{
+    font-family: Garamond,serif;
+    font-variant: small-caps;
+    font-size: 1em;
+}
